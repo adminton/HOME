@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到冬旭的学习主页
 
-You can use the [editor on GitHub](https://github.com/adminton/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+人生最大的痛苦就是认为自己不应该有痛苦的痛苦
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
